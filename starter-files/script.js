@@ -36,5 +36,5 @@ btn.addEventListener('click', e => {
       </span>
     `
     );
- 
+    answer.length = 0;
 });
